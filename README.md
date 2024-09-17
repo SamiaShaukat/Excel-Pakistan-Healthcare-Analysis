@@ -19,5 +19,5 @@ This project provides a detailed analysis of health data from hospitals across P
 ## Key Insights
 
 - Pivot Tables: Revealed key trends in patient demographics, disease prevalence, and treatment costs.
-- Interactive Charts: Enhanced data analysis efficiency by 40%.
+- Interactive Charts: Enhanced data analysis efficiency.
 - Comprehensive Report: Provided actionable insights for healthcare professionals and policymakers.
